@@ -8,5 +8,6 @@
   </style>
 
 
-<body style="background-color:LightSkyBlue;color:Black;font-family:Lorem ipsum dolor sit amet;>
-</body>
+body { 
+linear-gradient(90,LawnGreen,DeepSkyBlue);
+]
