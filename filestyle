@@ -8,6 +8,8 @@
   </style>
 
 
-body { 
-linear-gradient(90,LawnGreen,DeepSkyBlue);
+#grad { 
+background-image:linear-gradient(90,LawnGreen,DeepSkyBlue);
 }
+<body style="background-color:LightSkyBlue;color:Black;font-family:Lorem ipsum dolor sit amet;">
+ 
