@@ -1,3 +1,12 @@
-h1 {
- background-color=red
- color=green;}
+
+    h1 {text-align: center;}
+    p {text-align:center;}
+    h2 {text-align:center;}
+    h1 {font-size: 60px}
+    p {font-size: 40px}
+  MPS {text-align:center}
+  </style>
+
+
+<body style="background-color:LightSkyBlue;color:Black;font-family:Lorem ipsum dolor sit amet;>
+</body>
