@@ -1,4 +1,3 @@
-
 h1 {
   color: #fe218b;
   text-align: center;
@@ -8,9 +7,45 @@ h1 {
   
   <!--text-shadow: 1px 1px 2px black, 0 0 25px #f6511d, 0 0 5px #ffb400; -->
 }
-
+h2 {
+  color: black;
+  text-align: center;
+  font-family: "Garamond" , serif;
+  background: linear-gradient(90, #fed700, #21b0fe);
+  
+}
+h3 {
+  color: black;
+  text-align: center;
+  font-family: "Garamond" , serif; 
+  background: linear-gradient(90, #fed700, #21b0fe);
+}
+h4 {
+  color: black;
+  text-align: center;
+  font-family: "Garamond" , serif;   
+  background: linear-gradient(90, #fed700, #21b0fe);
+}
+h5 {
+  color: black;
+  text-align: center;
+  font-family: "Garamond" , serif;  
+  background: linear-gradient(90, #fed700, #21b0fe);
+}
+h6 {
+  color: black;
+  text-align: center;
+  font-family: "Garamond" , serif;
+  background: linear-gradient(90, #fed700, #21b0fe); 
+}
+p {
+  color: #4C0334;
+  text-align: center;
+  font-family: "Courier New", Times, serif;
+  font-size: 12px;
+  background: linear-gradient(90, #fed700, #21b0fe);
 }
 
 body {
-  background: linear-gradient(90, LimeGreen, DeepSkyGrey);
- 
+  background: linear-gradient(0, #eca0ff, #84ffc9);
+}
