@@ -12,5 +12,5 @@ h1 {
 }
 
 body {
-  background: linear-gradient(0, #eca0ff, #84ffc9);
+  background: linear-gradient(90, LimeGreen, DeepSkyGrey);
  
