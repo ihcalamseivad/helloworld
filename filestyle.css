@@ -18,34 +18,34 @@ h3 {
   color: black;
   text-align: center;
   font-family: "Garamond" , serif; 
-  background: linear-gradient(90, #fed700, #21b0fe);
+  background: linear-gradient(90,LimeGreen,DeepSkyblue);
 }
 h4 {
   color: black;
   text-align: center;
   font-family: "Garamond" , serif;   
-  background: linear-gradient(90, #fed700, #21b0fe);
+  background: linear-gradient(90,LimeGreen,DeepSkyblue);
 }
 h5 {
   color: black;
   text-align: center;
   font-family: "Garamond" , serif;  
-  background: linear-gradient(90, #fed700, #21b0fe);
+  background: linear-gradient(90,LimeGreen,DeepSkyblue);
 }
 h6 {
   color: black;
   text-align: center;
   font-family: "Garamond" , serif;
-  background: linear-gradient(90, #fed700, #21b0fe); 
+  background: linear-gradient(90,LimeGreen,DeepSkyblue); 
 }
 p {
   color: #4C0334;
   text-align: center;
   font-family: "Courier New", Times, serif;
   font-size: 12px;
-  background: linear-gradient(90, #fed700, #21b0fe);
+  background: linear-gradient(90,LimeGreen,DeepSkyblue);
 }
 
 body {
-  background: linear-gradient(0, #eca0ff, #84ffc9);
+  background: linear-gradient(90,LimeGreen,DeepSkyblue);
 }
