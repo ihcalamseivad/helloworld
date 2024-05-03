@@ -25,26 +25,7 @@ h4 {
   text-align: center;
   font-family: "Garamond" , serif;   
   background: linear-gradient(90,LimeGreen,DeepSkyblue);
-}
-h5 {
-  color: black;
-  text-align: center;
-  font-family: "Garamond" , serif;  
-  background: linear-gradient(90,LimeGreen,DeepSkyblue);
-}
-h6 {
-  color: black;
-  text-align: center;
-  font-family: "Garamond" , serif;
-  background: linear-gradient(90,LimeGreen,DeepSkyblue); 
-}
-p {
-  color: #4C0334;
-  text-align: center;
-  font-family: "Courier New", Times, serif;
-  font-size: 12px;
-  background: linear-gradient(90,LimeGreen,DeepSkyblue);
-}
+
 
 body {
   background: linear-gradient(90,LimeGreen,DeepSkyblue);
