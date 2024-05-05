@@ -7,25 +7,19 @@ h1 {
   
   <!--text-shadow: 1px 1px 2px black, 0 0 25px #f6511d, 0 0 5px #ffb400; -->
 }
-h2 {
-  color: black;
-  text-align: center;
-  font-family: "Garamond" , serif;
-  background: linear-gradient(90,LimeGreen,DeepSkyblue);
-  
-}
-h3 {
-  color: black;
-  text-align: center;
-  font-family: "Garamond" , serif; 
-  background: linear-gradient(90,LimeGreen,DeepSkyblue);
-}
-h4 {
-  color: black;
-  text-align: center;
-  font-family: "Garamond" , serif;   
-  background: linear-gradient(90,LimeGreen,DeepSkyblue);
 
+h2{
+  color: #fe218b;
+  text-align: center;
+  font-family: "Garamond", serif;
+  font-size: 60px;
+  background: linear-gradient(90,);
+  
+
+p {  text-align: center;
+  font-family: "Garamond", serif;
+  font-size: 40px;
+  background: linear-gradient(90,);
 
 body {
   background: linear-gradient(90,LimeGreen,DeepSkyblue);
