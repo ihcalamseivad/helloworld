@@ -22,3 +22,6 @@ p {
   font-size: 40px;
   background: linear-gradient(90,);
   }
+body {
+  background: linear-gradient (to bottom, LimeGreen, DeepSkyBlue)
+}
