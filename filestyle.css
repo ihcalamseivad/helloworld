@@ -6,7 +6,7 @@ h1 {
   font-family: "Garamond", serif;
   font-size: 60px;
   background: linear-gradient(90,);
-  
+}
 
 
 h2{
@@ -15,6 +15,7 @@ h2{
   font-family: "Garamond", serif;
   font-size: 60px;
   background: linear-gradient(90,);
+}
   
 h3 {
   color:Black;
@@ -22,4 +23,4 @@ h3 {
   font-family: "Garamond", serif;
   font-size: 60px;
   background: linear-gradient(90,);
-
+}
