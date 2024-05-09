@@ -1,3 +1,5 @@
+
+
 h1 {
   color: Black;
   text-align: center;
@@ -14,7 +16,12 @@ h2{
   font-size: 60px;
   background: linear-gradient(90,);
   
-
+h3 {
+  color:Black;
+  text-align: center;
+  font-family: "Garamond", serif;
+  font-size: 60px;
+  background: linear-gradient(90,);
   }
 body {
   background: linear-gradient (to bottom,#04c665);
