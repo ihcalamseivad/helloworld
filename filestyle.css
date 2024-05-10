@@ -29,3 +29,8 @@ h3 {
 body {
   text-align: center;
 }
+
+
+#grad {
+  background-image: linear-gradient(to bottom right, green, blue);
+}
