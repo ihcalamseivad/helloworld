@@ -24,4 +24,6 @@ h3 {
 
 body {
   text-align: center;
+  background: linear-gradient(90deg, green, blue);
+
 }
