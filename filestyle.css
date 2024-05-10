@@ -1,36 +1,27 @@
-
-
 h1 {
-  color: Black;
+  color: black;
   text-align: center;
   font-family: "Garamond", serif;
   font-size: 60px;
-  background: linear-gradient(90);
+  background: linear-gradient(90deg, green, blue);
 }
 
-
-h2{
-  color: Black;
+h2 {
+  color: black;
   text-align: center;
   font-family: "Garamond", serif;
   font-size: 50px;
-  background: linear-gradient(90);
+  background: linear-gradient(90deg, green, blue);
 }
-  
+
 h3 {
-  color:Black;
+  color: black;
   text-align: center;
   font-family: "Garamond", serif;
   font-size: 30px;
-  background: linear-gradient(90);
+  background: linear-gradient(90deg, green, blue);
 }
-
 
 body {
   text-align: center;
-}
-
-
-#grad {
-  background-image: linear-gradient(to bottom right, green, blue);
 }
